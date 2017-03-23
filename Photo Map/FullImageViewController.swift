@@ -2,7 +2,6 @@
 //  FullImageViewController.swift
 //  Photo Map
 //
-//  Created by Ekkolin on 10/15/15.
 //  Copyright © 2015 Timothy Lee. All rights reserved.
 //
 
